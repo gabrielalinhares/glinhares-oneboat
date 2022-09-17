@@ -6,15 +6,12 @@
   * [Credits](#credits)
   
    ## Description
-  Porject that uses Express to creat a note taker that saves the information that user inputs in a API
-  Link to project: https://github.com/gabrielalinhares
-
+  Project that uses Express to creat a note taker that saves the information that user inputs in a API
   
-  ## Usage
-  
-  Link to project: https://github.com/gabrielalinhares
+  ## Usage 
+  Link to project: https://glinhares-note-taker.herokuapp.com/
   
   ## Credits
- Gabriela 
+ Gabriela Linhares
  
   
